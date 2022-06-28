@@ -1,0 +1,16 @@
+.main{
+    height: 80vh;
+    width: 90vw;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    flex-direction: column;
+}
+
+.change{
+    font-family: monospace;
+    font-size: larger;
+    padding: 8px;
+    background-color: transparent;
+    border-radius: 20px;
+}
